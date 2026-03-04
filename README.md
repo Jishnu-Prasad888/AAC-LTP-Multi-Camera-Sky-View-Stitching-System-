@@ -3,4 +3,5 @@
 ## Name of Contributors
 
 1. Jishnu Prasad
-2. Adhithya S R
+2. Abhita Nanda Kishore
+3. Ishita Shankar
